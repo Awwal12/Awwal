@@ -42,6 +42,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Awwal12/Awwal12/output/snake.svg" alt="Snake animation" />
-
 ###
